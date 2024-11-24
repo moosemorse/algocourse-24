@@ -3,3 +3,4 @@ Working through AlgoCourse (2024) taught by Algorithmic Trading Society at Imper
 
 - Lecture 1 - Learning basics (pandas)
 - Lecture 2 - Writing algos 
+- Lecture 3 - Portfolio optmisation 
